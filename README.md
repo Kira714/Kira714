@@ -309,7 +309,8 @@
 <!--Use this Tag to have a clickable option to folder it<summary></summary><details></details>
 -->
 
-
+<!--
 <p align="center">
   <a href="https://github.com/Kira714">My GitHub Profile</a> | 
 </p>
+--
