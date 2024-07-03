@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Sachit Kumbhat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Software+Engineer;Computer+Science+Student;Web+Developer+and+Competitive+Programmer;Division+4+on+Codechef+(1+Stars);1320+GloabalRank+on+SmartInterviews;Always+learning+new+things"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Solved+750+Problems+On+Leetcode(Rating+1785);4+Star+Coder+on+Codechef(1804+Rating);50+GloabalRank+on+SmartInterviews;Always+learning+new+things"></a>
 </p>
 
 
