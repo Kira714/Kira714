@@ -45,7 +45,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sachit-kumbhat-168082225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachit-kumbhat-168082225/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19225762/leo-nikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19225762/leo-nikhil" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sachitt_kumbhatt/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonik_2367" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kumbhatsachit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="flashnuke_2367" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/kumbhatsachit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mnikhilleo" height="30" width="40" /></a>
