@@ -33,27 +33,26 @@
 - 🌟 Committed to driving innovation and growth through technology, advocating for integrity, continuous improvement, and teamwork.
 - 🤖 Tech enthusiast passionate about exploring and mastering emerging technologies.
 - :thinking: I’m currently open for a new `Internships`, `Job opportunities`, this is [MY RESUME](https://drive.google.com/file/d/1QVYyKbdo23aif0_yWCUuoYO6bKt6rTAm/view?usp=drivesdkview).
-<!--- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
--->
+:boom: You can visit [MY WEBSITE](https://personal-portfolio-1bbaa.web.app/).
+  
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonik2367&label=Profile%20views&color=0e75b6&style=flat" alt="leonik2367" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kira714&label=Profile%20views&color=0e75b6&style=flat" alt="Kira714" /> </p>
 
 <h3 align="left">🌐 Connect with me</h3>
 
 ----
 
 <p align="left">
-<a href="https://linkedin.com/in/leo-nikhil-mothukuri-5169b021a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leo-nikhil-mothukuri-5169b021a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sachit-kumbhat-168082225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachit-kumbhat-168082225/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19225762/leo-nikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19225762/leo-nikhil" height="30" width="40" /></a>
-<a href="https://instagram.com/leonik_2367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonik_2367" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/flashnuke_2367" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="flashnuke_2367" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mnikhilleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mnikhilleo" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/leonuke2367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leonuke2367" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leonik2367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leonik2367" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mnikhilleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mnikhilleo" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mnikhilleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mnikhilleo" height="30" width="40" /></a>
-<a href="https://discord.gg/548046445677379596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="548046445677379596" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sachitt_kumbhatt/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonik_2367" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kumbhatsachit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="flashnuke_2367" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kumbhatsachit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mnikhilleo" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/2017641a-a2f3-4dc0-91e2-48875b0b65db" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leonuke2367" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sachitt_kumbhatt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kira714" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/kumbhatsachit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mnikhilleo" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/548046445677379596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="548046445677379596" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">🛠️ Languages and Tools</h3>
@@ -66,7 +65,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoNik2367&theme=tokyonight_duo" alt="LeoNik2367" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kira714&theme=tokyonight_duo" alt="Kira714" /></p>
 
 
 
@@ -76,7 +75,7 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="LeoNik2367's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeoNik2367&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="Kira714's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kira714&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 
@@ -87,14 +86,14 @@
 
 ----
 	
-[![LeoNik2367's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoNik2367&theme=react-dark)](https://github.com/LeoNik2367/github-readme-activity-graph)
+[![Kira714's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kira714&theme=react-dark)](https://github.com/Kira714/github-readme-activity-graph)
 
 
 <h3> :trophy: Git Profile Trophies </h3>
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LeoNik2367&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="LeoNik2367" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kira714&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Kira714" /></a> </p>
 
 <h3> :open_file_folder: My Repositories</h3>
 
@@ -102,11 +101,11 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/LeoNik2367/ticketing-app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoNik2367&repo=ticketing-app&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Kira714/ticketing-app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kira714&repo=ticketing-app&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/LeoNik2367/Prediction_of_modernized_loan_approval">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoNik2367&repo=Prediction_of_modernized_loan_approval&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Kira714/Prediction_of_modernized_loan_approval">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kira714&repo=Prediction_of_modernized_loan_approval&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
@@ -294,24 +293,23 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/LeoNik2367/LeoNik2367/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/Kira714/Kira714/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 -->
 <!--another not useful block
   <h3>⚡ Recent GitHub Activity</h3>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeoNik2367&show_icons=true&theme=radical" alt="Leo Nikhil's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kira714&show_icons=true&theme=radical" alt="Leo Nikhil's GitHub Stats">
   </p>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNik2367&layout=compact&theme=radical" alt="Leo Nikhil's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kira714&layout=compact&theme=radical" alt="Leo Nikhil's Top Languages">
   </p>
 <!--Use this Tag to have a clickable option to folder it<summary></summary><details></details>
 -->
 
 
 <p align="center">
-  <a href="https://github.com/LeoNik2367">My GitHub Profile</a> | 
-  <a href="https://github.com/LeoNik2367/Leo-Readme/tree/main">My Repository</a>
+  <a href="https://github.com/Kira714">My GitHub Profile</a> | 
 </p>
