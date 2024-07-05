@@ -14,7 +14,7 @@
 ----
 
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
-  <strong>I am a passionate learner in blockchain 🧩, web development 🌐, machine learning 🤖, software development 💻, and cybersecurity 🔒. 
+  <strong>I am a passionate learner in blockchain 🧩, exploring decentralized technologies and smart contracts. In web development 🌐, I create responsive and user-friendly websites. For machine learning 🤖, I build predictive models and data-driven solutions. My software development 💻 skills include designing robust applications and writing efficient code. In cybersecurity 🔒, I focus on protecting systems and ensuring data privacy.
   I am committed to lifelong learning and collaboration. My interest lies in Coding
 	I lovee Competitive Programming❤️❤️❤️	  
   I aim to make impactful contributions. 
