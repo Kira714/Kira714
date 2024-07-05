@@ -14,7 +14,17 @@
 ----
 
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
-  <strong>I am a passionate learner in blockchain 🧩, exploring decentralized technologies and smart contracts. In web development 🌐, I create responsive and user-friendly websites. For machine learning 🤖, I build predictive models and data-driven solutions. My software development 💻 skills include designing robust applications and writing efficient code. In cybersecurity 🔒, I focus on protecting systems and ensuring data privacy.
+  <strong>I am a passionate learner in:
+🧩 Blockchain - exploring decentralized technologies and smart contracts  
+🌐 Web development - creating responsive and user-friendly websites  
+🤖 Machine learning - building predictive models and data-driven solutions  
+💻 Software development - designing robust applications and writing efficient code  
+🔒 Cybersecurity - protecting systems and ensuring data privacy  
+🛠️ DevOps - streamlining software deployment and infrastructure management  
+⚛️ React - building dynamic and interactive user interfaces  
+🧠 AI - advancing machine learning and creating intelligent systems  
+
+I thrive on exploring innovative technologies, solving complex problems, and continuously enhancing my skills to stay ahead in these dynamic fields. Recently, I was selected for the prestigious Amazon ML Summer School 🎓, furthering my expertise in machine learning and artificial intelligence.
   I am committed to lifelong learning and collaboration. My interest lies in Coding
 	I lovee Competitive Programming❤️❤️❤️	  
   I aim to make impactful contributions. 
