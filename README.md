@@ -15,17 +15,40 @@
 
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
   <strong>I am a passionate learner in blockchain 🧩, web development 🌐, machine learning 🤖, software development 💻, and cybersecurity 🔒. 
-  I am committed to lifelong learning and collaboration. 
+  I am committed to lifelong learning and collaboration. My interest lies in Coding
+	I lovee Competitive Programming❤️❤️❤️	  
   I aim to make impactful contributions. 
   I seek to use my skills to drive innovation, growth, and cybersecurity. 
   I uphold integrity, continuous improvement, and teamwork. 
-  <strong>Think of me as a dynamic function, always optimizing for innovation and teamwork.
-  I debug obstacles with integrity and improvement.</strong>
+  <strong>Think of me as someone who is ready to work day and night in order to complete his task.
+  I love the feel of building something unique.I love the thrill that comes in and around when building that.That is what motivates me to do my work.</strong>
 </p>
 <!---<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>-->
 <br><br>
 
 - :school: I am a `Final Year Engineering Student` at [CMR TECHNICAL CAMPUS.]
+- 🏆 Topper in Smart Interviews DSA college training program leaderboard.
+- 🧠 Solved 750+ Leetcode questions with a rating of 1785.
+- 📜 Awarded Certificate of Merit for highest GPA in 2023.
+- 🥇 Received High Commendation at GS MUN 2023.
+- 🥈 Secured AIR 2 at Binary Bonanza by Coding Ninjas.
+- ⭐️ 4-star coder on CodeChef with a rating of 1804.
+- 🌟 Global rank under 5500 on CodeChef (June 2024).
+- 🏅 Alteryx Designer Core Certificate, 31 Oct 2025.
+- 🎓 Alteryx Micro Credential Certificate, 29 Oct 2025.
+- 🛡️ NSE 1 Network Security Associate, 22 Jun 2025.
+- 🔐 NSE 2 Network Security Associate, 22 Jun 2025.
+- 🔒 NSE 3 Network Security Associate, 22 Jun 2025.
+- 📈 AON Cocubes Y-1 Test, Aggregate: 628/800.
+- 🎯 Blackbucks Pre Assessment Test, Aggregate: 757/800.
+- ☁️ AWS Academy Cloud Foundations.
+- 📊 AWS Data Analytics certification.
+- 🏅 Certificate of Excellence in Coding Ninjas Contest.
+- 🛠️ Key skills: DSA, Coding, C++.
+- 🥈 AIR 2 in All India Level Coding Competition.
+- 🔐 Introduction to Cybersecurity.
+- 🏆 Oracle Certified Foundations Associate.
+- 📈 Google Cloud Data Analyst Certificate.
 - 🚀 Actively participated in numerous hackathons, leveraging software as a solution and continually upskilling.
 - 💻 Experienced `web developer and competitive programmer`, currently advancing skills in Advanced Web Development.
 - 🌱 Always learning new technologies and methodologies to stay ahead in the field.
