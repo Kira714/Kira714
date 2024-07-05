@@ -14,11 +14,11 @@
 ----
 
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
-  <strong>I am a passionate learner in:
-🧩 Blockchain - exploring decentralized technologies and smart contracts  
-🌐 Web development - creating responsive and user-friendly websites  
-🤖 Machine learning - building predictive models and data-driven solutions  
-💻 Software development - designing robust applications and writing efficient code  
+  <strong>I am a passionate learner in:<br>
+🧩 Blockchain - exploring decentralized technologies and smart contracts <br> 
+🌐 Web development - creating responsive and user-friendly websites  <br>
+🤖 Machine learning - building predictive models and data-driven solutions  <br>
+💻 Software development - designing robust applications and writing efficient code  <br>
 🔒 Cybersecurity - protecting systems and ensuring data privacy  
 🛠️ DevOps - streamlining software deployment and infrastructure management  
 ⚛️ React - building dynamic and interactive user interfaces  
