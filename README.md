@@ -19,10 +19,10 @@
 🌐 Web development - creating responsive and user-friendly websites  <br>
 🤖 Machine learning - building predictive models and data-driven solutions  <br>
 💻 Software development - designing robust applications and writing efficient code  <br>
-🔒 Cybersecurity - protecting systems and ensuring data privacy  
-🛠️ DevOps - streamlining software deployment and infrastructure management  
-⚛️ React - building dynamic and interactive user interfaces  
-🧠 AI - advancing machine learning and creating intelligent systems  
+🔒 Cybersecurity - protecting systems and ensuring data privacy  <br>
+🛠️ DevOps - streamlining software deployment and infrastructure management <br>  
+⚛️ React - building dynamic and interactive user interfaces  <br>
+🧠 AI - advancing machine learning and creating intelligent systems <br>  
 
 I thrive on exploring innovative technologies, solving complex problems, and continuously enhancing my skills to stay ahead in these dynamic fields. Recently, I was selected for the prestigious Amazon ML Summer School 🎓, furthering my expertise in machine learning and artificial intelligence.
   I am committed to lifelong learning and collaboration. My interest lies in Coding
