@@ -34,11 +34,11 @@
 - 🥈 Secured AIR 2 at Binary Bonanza by Coding Ninjas.
 - ⭐️ 4-star coder on CodeChef with a rating of 1804.
 - 🌟 Global rank under 5500 on CodeChef (June 2024).
-- 🏅 Alteryx Designer Core Certificate, 31 Oct 2025.
-- 🎓 Alteryx Micro Credential Certificate, 29 Oct 2025.
-- 🛡️ NSE 1 Network Security Associate, 22 Jun 2025.
-- 🔐 NSE 2 Network Security Associate, 22 Jun 2025.
-- 🔒 NSE 3 Network Security Associate, 22 Jun 2025.
+- 🏅 Alteryx Designer Core Certificate.
+- 🎓 Alteryx Micro Credential Certificate.
+- 🛡️ NSE 1 Network Security Associate.
+- 🔐 NSE 2 Network Security Associate.
+- 🔒 NSE 3 Network Security Associate.
 - 📈 AON Cocubes Y-1 Test, Aggregate: 628/800.
 - 🎯 Blackbucks Pre Assessment Test, Aggregate: 757/800.
 - ☁️ AWS Academy Cloud Foundations.
@@ -68,12 +68,12 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sachit-kumbhat-168082225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachit-kumbhat-168082225/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sachitt_kumbhatt/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonik_2367" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sachitt_kumbhatt/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachitt_kumbhatt" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kumbhatsachit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="flashnuke_2367" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/kumbhatsachit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mnikhilleo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kumbhatsachit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kumbhatsachit" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/2017641a-a2f3-4dc0-91e2-48875b0b65db" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="leonuke2367" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/sachitt_kumbhatt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kira714" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/kumbhatsachit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mnikhilleo" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/kumbhatsachit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumbhatsachit" height="30" width="40" /></a>
 <!-- <a href="https://discord.gg/548046445677379596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="548046445677379596" height="30" width="40" /></a> -->
 </p>
 
@@ -139,10 +139,10 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/kumbhatsachit"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+	<a href="https://leetcode.com/sachitt_kumbhatt/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
+	<a href="https://www.codechef.com/users/kumbhatsachit"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
 	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
