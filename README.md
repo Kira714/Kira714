@@ -66,7 +66,7 @@ I thrive on exploring innovative technologies, solving complex problems, and con
 - 🌟 Committed to driving innovation and growth through technology, advocating for integrity, continuous improvement, and teamwork.
 - 🤖 Tech enthusiast passionate about exploring and mastering emerging technologies.
 - :thinking: I’m currently open for a new `Internships`, `Job opportunities`, this is [MY RESUME](https://drive.google.com/file/d/1nqkPUn7u_HuzhXmETQsiomy4_K13VLVD/view).
-:boom: You can visit [MY WEBSITE](https://personal-portfolio-1bbaa.web.app/).
+:boom: You can visit [MY WEBSITE](https://kumbhatsachit.vercel.app/).
   
 <br>
 
