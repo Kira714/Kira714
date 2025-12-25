@@ -1,12 +1,11 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=AI+Engineer+%7C+RAG+Specialist;Building+Intelligent+Systems;LangChain+%7C+Transformers+%7C+Automation" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi , I'm Sachit Kumbhat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+Engineer+%7C+RAG+Specialist;LangChain+%7C+LangGraph+%7C+LangSmith;Building+Intelligent+Systems"></a>
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" height="300px"/>
-</div>
+<picture><img src = "https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"></picture>
 
 ---
 
@@ -85,10 +84,6 @@ I'm an **AI Engineer** specializing in **Retrieval-Augmented Generation (RAG)**,
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kira714&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kira714&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🏆 Key Achievements
@@ -115,14 +110,6 @@ I'm an **AI Engineer** specializing in **Retrieval-Augmented Generation (RAG)**,
 - **AON Cocubes Y-1**: 628/800
 - **Blackbucks Pre Assessment**: 757/800
 
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kira714&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
