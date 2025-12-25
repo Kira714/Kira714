@@ -114,14 +114,6 @@ I'm an **AI Engineer** specializing in **Retrieval-Augmented Generation (RAG)**,
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kira714&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
